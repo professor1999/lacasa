@@ -1196,4 +1196,4 @@ if(message2say.length < 1) return message.channel.send({embed: sayembed}).catch(
 
   }
 });
-client.login(config.token)
+client.login("NzQzOTYzMjg5MDMzMzc1ODY1.XzcTzg._tAaLwpn4PZjs1jgjY4ynDf7O1c");
